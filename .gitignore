@@ -1,0 +1,14 @@
+*.swp
+/.dapper
+/.tags
+/.idea
+/.trash-cache
+/.vagrant
+/.kube
+/.cache
+/.docker
+/.*_history
+/.viminfo
+/.lesshst
+/*.log
+*.tmp
